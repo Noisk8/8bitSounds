@@ -1,0 +1,19 @@
+En Linux Mint /Ubuntu / Debian 
+
+para linux
+
+Abrimos una terminal y ejecutamos
+
+>>>> sudo apt-get install visualboyadvance visualboyadvance-gtk
+
+Luego 
+
+>>>> su
+
+>>>> apt-get install visualboyadvance visualboyadvance-gtk
+
+Nota: Lo hicimos en linuxmint 17.2 Raffaela sin ningun problema.
+
+En Windows
+
+Descargar el archivo .exe de la carpeta  VisualBoyAdvance
